@@ -21,7 +21,9 @@ Program ini mengimplementasikan sistem perbankan sederhana yang terdiri dari emp
 ---
 
 • Encapsulation: Menggunakan atribut private pada kelas BujurSangkar, Lingkaran, dan Silinder, serta menyediakan getter dan setter untuk mengakses atau mengubah nilainya.
+
 • Inheritance: Menggunakan extends untuk mewariskan atribut dan metode. BujurSangkar dan Lingkaran mewarisi Bentuk, sedangkan Silinder mewarisi Lingkaran.
+
 • Polymorphism: Menggunakan method overriding pada metode printInfo() di setiap kelas turunan untuk menampilkan informasi sesuai jenis objek, seperti luas bujur sangkar, luas lingkaran, dan volume silinder.
 
 ---
