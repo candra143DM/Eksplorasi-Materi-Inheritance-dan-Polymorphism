@@ -26,4 +26,10 @@ Program ini mengimplementasikan sistem perbankan sederhana yang terdiri dari emp
 
 ---
 ## 📸 Screenshot Output Code 📸
-![Output Program](OutputCode.png)
+
+| Menu / Fitur                            | Screenshot Output                     |
+| :-------------------------------------- | :------------------------------------ |
+| **1. Perlihatkan dengan nilai default** | ![Pilihan 1](OutputMenu/pilihan1.png) |
+| **2. Isi nilai sendiri**                | ![Pilihan 2](OutputMenu/pilihan2.png) |
+| **0. Keluar**                           | ![Pilihan 0](OutputMenu/pilihan0.png) |
+
